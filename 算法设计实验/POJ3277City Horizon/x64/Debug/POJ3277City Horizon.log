@@ -1,0 +1,4 @@
+﻿  POJ3277City Horizon.cpp
+C:\Users\wenbo_liu\source\repos\算法设计实验\POJ3277City Horizon\POJ3277City Horizon.cpp(111,56): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\wenbo_liu\source\repos\算法设计实验\POJ3277City Horizon\POJ3277City Horizon.cpp(112,56): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  POJ3277City Horizon.vcxproj -> C:\Users\wenbo_liu\source\repos\算法设计实验\POJ3321 苹果树\x64\Debug\POJ3277City Horizon.exe
